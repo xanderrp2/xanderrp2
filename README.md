@@ -65,10 +65,10 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xanderrp2&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats-glro.vercel.app/api?username=xanderrp2&theme=nightowl&show_icons=true&count_private=true" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xanderrp2&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats-glro.vercel.app/api/top-langs/?username=xanderrp2&theme=nightowl&hide_border=false&langs_count=10&count_private=true"/>
 </td>
 </tr>
 </table>
