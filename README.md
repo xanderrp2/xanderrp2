@@ -78,7 +78,7 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <!-- Employer Section -->
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/uc?export=download&id=1WI_7UHfm4BonFW5TrzC3ruHqbVRWNw2rKa6PTiIJxIA" target="_blank">Download my resume</a>
+> <a href="https://drive.google.com/file/d/1WI_7UHfm4BonFW5TrzC3ruHqbVRWNw2rKa6PTiIJxIA/view?usp=sharing" target="_blank">Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
