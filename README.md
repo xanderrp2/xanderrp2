@@ -82,10 +82,11 @@ I am a **Computer Science & Financial Management** student, @ the University of 
 <br>
 
 <!-- Employer Section -->
+<!--
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1U0ALy076xTZZmLNsrLM5o4G-IFbjVSUl/view?usp=sharing" target="_blank">Download my resume</a>
-
+-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!-- Visitor Counter -->
